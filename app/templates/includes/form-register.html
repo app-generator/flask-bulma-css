@@ -1,0 +1,61 @@
+
+        <section id="contact" class="section section-light-grey is-medium">
+            <div class="container">
+                <div class="title-wrapper has-text-centered">
+                    <h2 class="title is-2 is-spaced">Register</h2>
+                    <p class="subtitle is-5 is-muted">
+
+                        {% if msg %}
+                            {{ msg | safe }}
+                        {% else %}
+                            Input your credentials
+                        {% endif %}
+                   
+                    </p>
+                    <div class="divider is-centered"></div>
+                </div>
+        
+                <div class="content-wrapper">
+                    <div class="columns">
+                        <div class="column is-4 is-offset-4">
+
+                            <form role="form" method="post" action="">
+
+                                {{ form.hidden_tag() }}
+
+                                <div class="columns is-multiline">
+
+                                    <div class="column is-12">
+                                        {{ form.name(placeholder="Friendly Name",class="input is-medium") }}
+                                    </div>
+
+                                    <div class="column is-12">
+                                        {{ form.username(placeholder="Username",class="input is-medium") }}
+                                    </div>
+
+                                    <div class="column is-12">
+                                        {{ form.email(placeholder="eMail",class="input is-medium",type="email") }}
+                                    </div>
+
+                                    <div class="column is-12">
+                                        {{ form.password(placeholder="Password",class="input is-medium",type="password") }}
+                                    </div>
+                                    
+                                    <br />
+                                    <div class="form-footer has-text-centered mt-10">
+                                        <button type="submit" class="button cta is-large primary-btn raised is-clear">Register</button>
+                                    </div>
+
+                                    <div class="form-footer has-text-centered mt-10">
+                                    Already have an account? <a href={{ url_for('login') }}>Login</a>
+                                    </div>
+
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+
