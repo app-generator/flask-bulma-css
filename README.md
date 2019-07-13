@@ -49,8 +49,9 @@ Open-Source app styled with [Bulma CSS](https://bulma.io/) and coded in [Flask](
 
 For issues and features request, use **Github** or access the [support page](https://appseed.us/support) provided by **AppSeed** 
 
+<br />
 
-## More Screenshots
+## App Screenshots
 
 <br />
 
