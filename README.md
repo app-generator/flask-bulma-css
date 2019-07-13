@@ -1,6 +1,6 @@
 # [Bulma CSS - FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
 
-Open-Source app styled with [Bulma CSS](https://bulma.io/) and coded in [Flask](https://palletsprojects.com/p/flask/)
+Open-Source app styled with **Bulma CSS** and coded in **Flask**
 
 <br />
 
