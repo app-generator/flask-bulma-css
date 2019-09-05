@@ -4,7 +4,7 @@ Open-Source app styled with **Bulma CSS** and coded in **Flask**
 
 <br />
 
-![Flask Bulma CSS](https://github.com/app-generator/flask-bulma-css/blob/master/screenshots/flask-bulma-css-intro.gif)
+![Flask Boilerplate Bulma CSS](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-bulma-css-intro.gif)
 
 <br />
 
