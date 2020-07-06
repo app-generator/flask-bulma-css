@@ -1,4 +1,4 @@
-# [Bulma CSS - FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
+# [Flask App Bulma](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
 
 Open-Source app styled with **Bulma CSS** and coded in **Flask**
 
@@ -77,5 +77,5 @@ For issues and features request, use **Github** or access the [support page](htt
 <br />
 
 ---
-[Bulma CSS - FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css) provided by **AppSeed**
+[Flask App Bulma](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css) provided by **AppSeed**
 
